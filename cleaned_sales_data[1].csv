@@ -1,0 +1,31 @@
+Order ID,Order Date,Region,Product,Category,Quantity,Sales,Month
+CA-2017-152156,2017-11-08,West,Stapler,Office Supplies,2.0,15.0,2017-11
+CA-2017-152157,2017-11-08,West,Bookcase,Furniture,1.0,239.99,2017-11
+CA-2017-138688,2017-06-12,Central,Labelmaker,Office Supplies,,,2017-06
+CA-2017-141962,2017-10-11,East,Desk,Furniture,5.0,800.0,2017-10
+US-2016-108966,2016-12-05,South,Chair,Furniture,3.0,150.0,2016-12
+CA-2015-115812,2015-07-26,West,Paper,Office Supplies,10.0,30.0,2015-07
+CA-2015-115813,2015-07-26,West,Paper,Office Supplies,10.0,,2015-07
+CA-2016-118789,2016-09-18,East,Monitor,Technology,1.0,200.0,2016-09
+US-2017-118998,2017-03-15,South,Desk,Furniture,2.0,400.0,2017-03
+CA-2016-132536,2016-04-19,Central,Printer,Technology,1.0,189.99,2016-04
+CA-2017-167890,2017-08-24,West,Paper,Office Supplies,20.0,60.0,2017-08
+US-2015-111456,2015-05-29,South,Chair,Furniture,4.0,300.0,2015-05
+CA-2016-187642,2016-12-30,East,Desk Lamp,Office Supplies,2.0,45.0,2016-12
+CA-2017-178523,2017-06-08,West,Tablet,Technology,1.0,450.0,2017-06
+CA-2016-163527,2016-03-23,Central,Pen,Office Supplies,50.0,25.0,2016-03
+US-2015-110674,2015-10-04,South,Bookcase,Furniture,2.0,300.0,2015-10
+CA-2017-187512,2017-07-05,East,Monitor,Technology,2.0,400.0,2017-07
+US-2016-102376,2016-11-03,South,Phone,Technology,1.0,299.0,2016-11
+CA-2015-188896,2015-01-09,West,Envelopes,Office Supplies,15.0,18.0,2015-01
+CA-2017-110987,2017-09-13,Central,Table,Furniture,1.0,499.0,2017-09
+US-2016-188729,2016-10-29,South,Chair,Furniture,3.0,210.0,2016-10
+CA-2015-157534,2015-03-11,East,Paper,Office Supplies,25.0,75.0,2015-03
+CA-2016-122778,2016-06-06,West,Whiteboard,Furniture,1.0,120.0,2016-06
+CA-2017-143987,2017-12-12,Central,Stapler,Office Supplies,2.0,20.0,2017-12
+CA-2016-129865,2016-02-17,East,Bookcase,Furniture,1.0,130.0,2016-02
+US-2015-145657,2015-05-20,South,Chair,Furniture,5.0,375.0,2015-05
+CA-2017-139812,2017-03-30,West,Pen,Office Supplies,100.0,50.0,2017-03
+CA-2015-148897,2015-07-12,Central,Printer,Technology,,,2015-07
+CA-2017-142876,2017-09-08,East,Monitor,Technology,2.0,380.0,2017-09
+CA-2016-122989,2016-04-04,West,Tablet,Technology,1.0,480.0,2016-04
